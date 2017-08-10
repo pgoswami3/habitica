@@ -660,7 +660,7 @@
   "armorArmoireAntiProcrastinationArmorText": "Anti-Procrastination Armor",
   "armorArmoireAntiProcrastinationArmorNotes": "Infused with ancient productivity spells, this steel armor will give you extra strength to battle your tasks. Increases Strength by <%= str %>. Enchanted Armoire: Anti-Procrastination Set (Item 2 of 3).",
   "armorArmoireYellowPartyDressText": "Yellow Party Dress",
-  "armorArmoireYellowPartyDressNotes": "Yellow Party Dress: You're perceptive, strong, smart, and so fashionable! Increases Perception, Strength, and Intelligence by <%= attrs %> each. Enchanted Armoire: Yellow Hairbow Set (Item 2 of 2).",
+  "armorArmoireYellowPartyDressNotes": "You're perceptive, strong, smart, and so fashionable! Increases Perception, Strength, and Intelligence by <%= attrs %> each. Enchanted Armoire: Yellow Hairbow Set (Item 2 of 2).",
 
   "headgear": "headgear",
   "headgearCapitalized": "Headgear",
